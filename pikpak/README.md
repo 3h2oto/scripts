@@ -1,4 +1,4 @@
-[逆向过程在这里](https://blog.zhx47.top/posts/25.html)
+[逆向过程在这里](https://blog.zhx47.top/archives/1711707060000)
 
 代码中获取邮箱验证码是使用了[crazeMail](https://github.com/zhx47/crazeMail)配套的，可能需要大家重新写一下了。（当年脑子不好使不知道有线程的开源程序，现在就先这样用了）
 
