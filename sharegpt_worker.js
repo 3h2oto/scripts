@@ -194,7 +194,7 @@ async function displayLoginPage() {
                 <h1 class="title">欢迎使用</h1>
                 <form method="POST" class="form">
                     <div class="relative mb-4">
-                        body { background-image: url('https://img.pub/p/ec76752396ce8579252f.jpg'); background-size: cover; background-position: center; background-attachment: fixed; }
+                        <input type="text" id="unique_name" name="unique_name" placeholder=" " required class="input-field">
                         <label for="unique_name" class="absolute left-5 top-1 text-green-500 text-sm transition-all duration-300">用户名</label>
                     </div>
                     <div class="relative mb-4">
