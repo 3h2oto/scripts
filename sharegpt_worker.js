@@ -194,7 +194,7 @@ async function displayLoginPage() {
                 <h1 class="title">欢迎使用</h1>
                 <form method="POST" class="form">
                     <div class="relative mb-4">
-                        <input type="text" id="unique_name" name="unique_name" placeholder=" " required class="input-field">
+                        body { background-image: url('https://img.pub/p/ec76752396ce8579252f.jpg'); background-size: cover; background-position: center; background-attachment: fixed; }
                         <label for="unique_name" class="absolute left-5 top-1 text-green-500 text-sm transition-all duration-300">用户名</label>
                     </div>
                     <div class="relative mb-4">
@@ -243,7 +243,7 @@ async function displayAccountPage(unique_name) {
             <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.0/dist/tailwind.min.css" rel="stylesheet">
             <link rel="icon" type="image/png" href="https://img.pub/p/f9a34070cddf25761a27.jpg">
             <style>
-                body { display: flex; justify-center: center; align-items: center; min-height: 100vh; margin: 0; }
+                body { background-image: url('https://img.pub/p/ec76752396ce8579252f.jpg'); background-size: cover; background-position: center; background-attachment: fixed; }
                 .container { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); max-width: 400px; width: 100%; }
                 .title { font-size: 24px; margin-bottom: 20px; text-align: center; }
                 .form { display: flex; flex-direction: column; gap: 10px; }
@@ -286,7 +286,7 @@ function displayErrorPage(errorMessage) {
             <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.0/dist/tailwind.min.css" rel="stylesheet">
             <link rel="icon" type="image/png" href="https://img.pub/p/f9a34070cddf25761a27.jpg">
             <style>
-                body { display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0; background-color: #f8d7da; color: #721c24; font-family: sans-serif; }
+                body { background-image: url('https://img.pub/p/662ee946829021c737e5.jpg'); background-size: cover; background-position: center; background-attachment: fixed; }
                 .container { background: rgba(255, 255, 255, 0.85); border-radius: 15px; padding: 30px; max-width: 400px; margin: auto; text-align: center; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); }
                 .logo { margin: 0 auto 20px; width: 120px; height: auto; }
                 .title { font-size: 24px; font-weight: bold; color: #333; margin-bottom: 15px; }
